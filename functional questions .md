@@ -1,5 +1,5 @@
-Soruce : https://reactivex.io/learnrx/
-Here are the questions and answers in Kotlin for the 43 # Exercises you provided. Since Kotlin is a statically typed language and has a different set of libraries compared to JavaScript, some of the solutions will be adapted to Kotlin's idiomatic style and available libraries.
+- Soruce : https://reactivex.io/learnrx/
+- Here are the questions and answers in Kotlin for the 43 # Exercises you provided. Since Kotlin is a statically typed language and has a different set of libraries compared to JavaScript, some of the solutions will be adapted to Kotlin's idiomatic style and available libraries.
 
 # Exercise 1: Print all the names in an array
 ## Question: Print all the names in an array.
