@@ -430,6 +430,9 @@ fun main() {
     val maxRating = ratings.reduce { acc, rating -> if (acc > rating) acc else rating }
     println(maxRating) // 5
 }
+
+```
+
 # Exercise 18: Retrieve url of the largest boxart
 ## Question: Use reduce() and map() to retrieve the url of the largest boxart.
 
